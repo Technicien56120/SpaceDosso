@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/vatogba/myfirstapp/BuildConfig.java
+ com.vatogba.myfirstapp.BuildConfig
